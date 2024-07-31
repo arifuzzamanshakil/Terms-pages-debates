@@ -119,8 +119,8 @@ i{
 .navMob{
     display: none;
 }
-.btn:hover{
-    border: 1px solid #56677F;
+.btn,.btn:hover{
+    border-color: #56677F!important;
 }
 .mobLogo{
     display: none;
@@ -132,6 +132,9 @@ i{
     }
     h1,h2,h3,h4,h5,h6,p,button,ul,li,span{
         color: #fff!important;
+    }
+    .header{
+        padding-top: 20px;
     }
     .navbar .btn i{
         color: #6E6E6E;
