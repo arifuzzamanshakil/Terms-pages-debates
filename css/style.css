@@ -182,6 +182,7 @@ i{
     .navCol{
         margin: 0 auto;
         /* margin-bottom: 40px; */
+        padding-top: 10px;
     }
     .dropdown .btn,
     .dropdown-menu{
