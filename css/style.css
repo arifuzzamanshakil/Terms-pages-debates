@@ -10,6 +10,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.header{
+    padding-top: 20px;
+}
 button.btn{
     padding: 12px 12px 13px 12px;
     border-radius: 12px;
@@ -31,7 +34,9 @@ i{
     border-radius: 50%;
     text-align: center;
 }
-
+.pageTittle{
+    padding-bottom: 40px;
+}
 .pageTittle h1{
     font-family: Manrope,sans-serif;
     font-size: 64px;
@@ -133,8 +138,19 @@ i{
     h1,h2,h3,h4,h5,h6,p,button,ul,li,span{
         color: #fff!important;
     }
-    .header{
-        padding-top: 20px;
+    .pageTittle{
+        padding-bottom: 30px;
+        margin-top: 30px;
+    }
+    .pageTittle h1{
+        font-size: 30px;
+        line-height: 40px;
+        text-align: left;
+    }
+    .pageTittle p{
+        font-size: 16px;
+        line-height: 25px;
+        text-align: left;
     }
     .navbar .btn i{
         color: #6E6E6E;
@@ -152,9 +168,11 @@ i{
     .navMob{
         display: block;
     }
+    .navMob .btn{
+        margin: auto;
+    }
     .navCol{
-        justify-content: center;
-        display: flex;
+        margin: 0 auto;
         margin-bottom: 40px;
     }
     .dropdown .btn,
