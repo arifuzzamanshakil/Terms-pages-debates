@@ -13,6 +13,7 @@ body{
 .header{
     padding-top: 20px;
 }
+
 button.btn{
     padding: 12px 12px 13px 12px;
     border-radius: 12px;
@@ -26,6 +27,19 @@ button.btn{
     line-height: 19.12px;
     gap: 10px;
 }
+.navMob{
+    display: none;
+}
+.btn,.btn:hover{
+    border-color: #56677F!important;
+}
+.mobLogo{
+    display: none;
+}
+.navCol{
+    align-self: center;
+    padding-top: 50px;
+}
 i{
     background-color: #CED8EA;
     width: 20px;
@@ -34,17 +48,17 @@ i{
     border-radius: 50%;
     text-align: center;
 }
-.pageTittle{
+.content-box .pageTittle{
     padding-bottom: 40px;
 }
-.pageTittle h1{
+.content-box .pageTittle h1{
     font-family: Manrope,sans-serif;
     font-size: 64px;
     font-weight: 700;
     line-height: 76.8px;
     text-align: center;
 }
-.pageTittle p{
+.content-box .pageTittle p{
     font-family: Poppins, sans-serif;
     font-size: 24px;
     font-weight: 400;
@@ -68,7 +82,8 @@ i{
 }
 .content-box{
     overflow-y: scroll;
-    height: 62vh;
+    height: 82vh;
+    margin-top: 30px;
 }
 .content-box::-webkit-scrollbar {
     display: none;
@@ -111,25 +126,15 @@ i{
 .content-box h3:first-child{
     margin-top: 0;
 }
-
 .content-box .sublist li p{
  margin-top: 30px;
 }
-
 .content-box .dmcalist li{
     list-style: disc !important;
     margin: 0;
 }
 
-.navMob{
-    display: none;
-}
-.btn,.btn:hover{
-    border-color: #56677F!important;
-}
-.mobLogo{
-    display: none;
-}
+
 @media (max-width:768px) {
     body{
         background-image: none!important;
@@ -141,16 +146,16 @@ i{
     .navbar .container-fluid{
         flex-wrap: nowrap!important;
     }
-    .pageTittle{
-        padding-bottom: 30px;
+    .content-box .pageTittle{
+        padding-bottom: 10px;
         margin-top: 30px;
     }
-    .pageTittle h1{
-        font-size: 30px;
+    .content-box .pageTittle h1{
+        font-size: 26px;
         line-height: 40px;
         text-align: left;
     }
-    .pageTittle p{
+    .content-box .pageTittle p{
         font-size: 16px;
         line-height: 25px;
         text-align: left;
@@ -176,7 +181,7 @@ i{
     }
     .navCol{
         margin: 0 auto;
-        margin-bottom: 40px;
+        /* margin-bottom: 40px; */
     }
     .dropdown .btn,
     .dropdown-menu{
