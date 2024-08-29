@@ -82,10 +82,32 @@
         "paragraph51": "ENTITY ID: 7589464",
         "paragraph52": "If you are a California resident or any other jurisdiction that mandates such provision, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.",
         "paragraph53": "E-VNTS CO. is a company registered in the US State of Delaware under ENTITY ID: 7589464.",
-        "paragraph54": "If you have any questions or would like more information, please contact our support team at <a href=\"mailto:support@e-vnts.com\">support@e-vnts.com</a>"
+        "paragraph54": "If you have any questions or would like more information, please contact our support team at <a href=\"mailto:support@e-vnts.com\">support@e-vnts.com</a>",
+
+        "dmpagettl": "DMCA",
+        "dmupdate": "Updated on the 29 of July, 2024",
+        "dmhead1": "Digital Millennium Copyright Act & Copyright Notification Guidelines",
+        "dmpara1":"Navigating the landscape of copyright law can be tricky. Whether you're a content creator receiving a copyright notification or a rights holder looking to submit one, these guidelines aim to clarify DE-BATES' commitment to adhering to the Digital Millennium Copyright Act (commonly known as the DMCA) and other relevant copyright laws, both in the US and Brazil.",
+        "dmpara2":"Please remember, while this guide offers insight, it's not a substitute for legal advice. We always recommend consulting with legal professionals regarding specific situations, potential infringements, or any questions about the application of copyright law.",
+        "dmhead2": "Table of Contents",
+        "dmpara3": "<ul class=\"dmcalist\"><li>What is the DMCA?</li><li>DE-BATES’ Role</li><li>DE-BATES’ Actions Upon Receipt of Notifications of Claimed Infringement</li><li>DE-BATES’ Actions Upon Receipt of Counter-Notifications</li><li>DE-BATES’ Actions Upon Receipt of Retractions</li><li>Requirements for Notifications, Counter-Notifications, and Retractions</li><li>How to Submit a Notification of Claimed Infringement</li><li>How to Submit a Counter-Notification</li><li>How to Submit a Retraction</li><li>Repeat Infringer Policy</li><li>Designated Copyright Agent</li></ul>",
+        "dmpara4":"<b>What is the DMCA?</b> The DMCA, along with its counterparts in other countries, sets the guidelines for platforms like DE-BATES, which feature user-generated content, to address potential copyright infringements. When rights holders believe their copyrighted content has been used without permission on platforms like DE-BATES, they can submit a notification of claimed infringement. This act also allows for counter-notifications and retractions.",
+        "dmpara5":"<b>DE-BATES’ Role</b> DE-BATES acts as a neutral intermediary, processing notifications of claimed infringements and counter-notifications. It's up to the rights holder and the account holder to settle any disputes. DE-BATES also:",
+        "dmpara6":"<ul class=\"dmcalist\"><li>Establishes requirements for notifications and counter-notifications.</li><li>Monitors notifications, counter-notifications, and any related court orders.</li> <li>Implements a policy to manage repeated infringements, termed the “Repeat Infringer Policy”.</li></ul>",
+        "dmpara7": "<b>DE-BATES’ Actions Upon Receipt of Notifications of Claimed Infringement:</b> Upon receiving a valid notification, DE-BATES generally notifies the account holder and removes or restricts access to the content in question. If the infringement is ongoing, we may suspend the account.",
+        "dmpara8": "<b>DE-BATES’ Actions Upon Receipt of Counter-Notifications:</b> If a valid counter-notification is received, DE-BATES typically informs the original claimant and may restore the content.",
+        "dmpara9": "<b>DE-BATES Actions Upon Receiving Retractions:</b> Upon receipt of a retraction, DE-BATES may restore the content, and the notification will not count as an infringement under our Repeat Infringer Policy.",
+        "dmhead3": "Requirements for Notifications, Counter-Notifications, and Retractions",
+        "dmpara10": "<b>How to Submit a Notification of Claimed Infringement</b> Rights holders or their agents can submit a notification by providing all required details to DE-BATES' Designated Copyright Agent.",
+        "dmpara11": "<b>How to Submit a Counter-Notification</b> If you believe a notification was a mistake or misidentification, you can send a counter-notification to DE-BATES.",
+        "dmpara12": "<b>How to Submit a Retraction Retractions</b> can be sent directly to DE-BATES if rights holders or their agents wish to retract a notification.",
+        "dmpara13": "<b>Repeat Infringer Policy</b> DE-BATES will limit or terminate access for users who repeatedly infringe copyrights. A user with three copyright strikes is deemed a repeat infringer. Each notification, counter-notification, or retraction is considered carefully in light of our Repeat Infringer Policy.",
+        "dmpara14": "<b>Designated Copyright Agent</b> E-VNTS CO., operating as DE-BATES, has a designated agent to manage copyright-related matters:",
+        "dmpara15": "Email: <a href=\"mailto:dmca@e-vnts.com\">dmca@e-vnts.com</a>",
+        "dmpara16": "Mailing Address: 254 Chapman Rd, Ste 208 #13504, Newark, Delaware 19702, US",
+        "dmpara17":"Please ensure that only copyright-related notifications, counter-notifications, and retractions are sent to the Designated Copyright Agent. For other inquiries or support, please contact our customer service."
 
 
-        
 
 
 
@@ -175,7 +197,34 @@
         "paragraph51": "ENTITY ID: 7589464",
         "paragraph52": "Se você for residente da Califórnia ou de qualquer outra jurisdição que exija tal disposição, você poderá receber essas mesmas informações por e-mail, enviando uma carta para o endereço acima com seu endereço de e-mail e uma solicitação dessas informações.",
         "paragraph53": "A E-VNTS CO. é uma empresa registrada no Estado de Delaware, nos EUA, sob a ENTITY ID: 7589464.",
-        "paragraph54": "Em caso de dúvidas ou para obter mais informações, entre em contato com nossa equipe de suporte pelo e-mail <a href=\"mailto:support@e-vnts.com\">support@e-vnts.com </a>"
+        "paragraph54": "Em caso de dúvidas ou para obter mais informações, entre em contato com nossa equipe de suporte pelo e-mail <a href=\"mailto:support@e-vnts.com\">support@e-vnts.com </a>",
+
+
+        "dmpagettl":"DMCA",
+        "dmupdate":"Atualizado em 29 de Julho de 2024",
+        "dmhead1":"Lei de Direitos Autorais do Milênio Digital (DMCA) e Diretrizes de Notificação de Direitos Autorais",
+        "dmpara1":"Navegar pelo cenário das leis de direitos autorais pode ser complicado. Seja você um criador de conteúdo recebendo uma notificação de direitos autorais ou um titular de direitos que deseja enviar uma, estas diretrizes têm como objetivo esclarecer o compromisso da DE-BATES em aderir à Lei de Direitos Autorais do Milênio Digital (comumente conhecida como DMCA, na sigla em inglês) e outras leis de direitos autorais relevantes, tanto nos EUA quanto no Brasil.",
+        "dmpara2": "Por favor,lembre-se, embora este guia ofereça insights, ele não substitui a orientação legal. Sempre recomendamos consultar profissionais jurídicos sobre situações específicas, possíveis infrações ou qualquer dúvida sobre a aplicação da lei de direitos autorais.",
+        "dmhead2": "Tabela de Conteúdos:",
+        "dmpara3": "<ul class=\"dmcalist\"><li>O que é a DMCA?</li><li>Papel da DE-BATES</li><li>Ações da DE-BATES ao Receber Notificações de Suposta Violação</li><li>Ações da DE-BATES ao Receber Contranotificações</li><li>Ações da DE-BATES ao Receber Retratações</li><li>Requisitos para Notificações, Contranotificações e Retratações</li><li>Como Enviar uma Notificação de Suposta Violação</li><li>Como Enviar uma Contranotificação</li><li>Como Enviar uma Retratação</li><li>Política de Infratores Repetidos</li><li>Agente Designado de Direitos Autorais</li></ul>",
+        "dmpara4": "<b>O que é a DMCA?</b> A DMCA, juntamente com suas contrapartes em outros países, estabelece as diretrizes para plataformas como a DE-BATES, que apresentam conteúdo gerado pelo usuário,para lidar com possíveis infrações de direitos autorais. Quando titulares de direitos acreditam que seu conteúdo protegido por direitos autorais foi usado sem permissão em plataformas como a DE-BATES, eles podem enviar uma notificação de suposta violação. Essa lei também permite Contranotificações e retratações.",
+        "dmpara5":"<b>Papel da DE-BATES:</b> A DE-BATES atua como intermediária neutra, processando notificações de suposta violação e contra notificações. Cda conta resolver quaisquer disputas. A DE-BATES também:",
+        "dmpara6": "<ul class=\"dmcalist\"><li>Estabelece requisitos para notificações e Contranotificações.</li><li>Monitora notificações, contranotificações e quaisquer ordens judiciais relacionadas.</li> <li>Implementa uma política para lidar com violações repetidas, chamada de “Política de Infratores Repetidos”.</li></ul>",
+        "dmpara7": "<b>Ações da DE-BATES ao Receber Notificações de Suposta Violação:</b> Violação: Ao receber uma notificação válida, a DE-BATES geralmente notifica o titular da conta e remove ou restringe o acesso ao conteúdo em questão. Se a violação estiver em andamento, podemos suspender a conta.",
+        "dmpara8": "<b>Ações da DE-BATES ao Receber Contranotificações:</b> Se uma Contranotificação válida for recebida, a DE-BATES geralmente informa o reclamante original e pode restaurar o conteúdo. Notificações contestadas podem não contar como uma infração sob nossa Política de Infratores Repetidos, a menos que a disputa seja resolvida.",
+        "dmpara9":"<b>Ações da DE-BATES ao Receber Retratações:</b> Ao receber uma retratação, a DE-BATES pode restaurar o conteúdo, e a notificação não contará como uma infração sob nossa Política de Infratores Repetidos.",
+        "dmhead3":"Requisitos para Notificações, Contranotificações e Retratações",
+        "dmpara10":"<b>Como Enviar uma Notificação de Suposta Violação:</b> Titulares de direitos ou seus representantes podem enviar uma notificação fornecendo todos os detalhes necessários ao Agente de Direitos Autorais Designado da DE-BATES.",
+        "dmpara11": "<b>Como Enviar uma Contranotificação:</b> Se você acredita que uma notificação foi um erro ou identificação equivocada, você pode enviar uma Contranotificação para a DE-BATES.",
+        "dmpara12": "<b>Como Enviar uma Retratação:</b> Retratações podem ser enviadas diretamente à DE-BATES se os titulares de direitos ou seus representantes desejarem retratar uma notificação.",
+        "dmpara13": "<b>Política de Infratores Repetidos:</b> A DE-BATES limitará ou encerrará o acesso de usuários que infrinjam repetidamente direitos autorais. Um usuário com três infrações de direitos autorais é considerado um infrator repetido. Cada notificação, contranotificação ou retratação é considerada cuidadosamente à luz de nossa Política de Infratores Repetidos.",
+        "dmpara14": "<b>Agente Designado de Direitos Autorais:</b> A E-VNTS CO., operando como DE-BATES,tem um agente designado para lidar com questões relacionadas a direitos autorais:",
+        "dmpara15": "Email: <a href=\"mailto:dmca@e-vnts.com\">dmca@e-vnts.com</a>",
+        "dmpara16": "Endereço Postal: 254 Chapman Rd, Ste 208 #13504, Newark, Delaware 19702, EUA",
+        "dmpara17": "Certifique-se de que apenas notificações, contranotificações e retratações relacionadas a direitos autorais sejam enviadas ao Agente de Direitos Autorais Designado. Para outras consultas ou suporte, entre em contato com nosso serviço ao cliente."
+
+
+
 
 
     }
