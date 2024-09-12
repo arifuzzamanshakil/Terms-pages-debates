@@ -40,6 +40,19 @@ button.btn{
     align-self: center;
     padding-top: 50px;
 }
+
+.dropdown-item{
+    cursor: pointer;
+}
+.dropdown-toggle::after{
+    display: none!important;
+}
+.dropdown-menu.show {
+    background-color: #dfebfc;
+    margin-top: 10px!important;
+    box-shadow: 0px 1px 10px -3px #495057;
+}
+
 i{
     background-color: #CED8EA;
     width: 20px;
